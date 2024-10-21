@@ -1,4 +1,4 @@
-Werkzeug==1.0.1
+Werkzeug
 Flask==2.2.3
 tensorflow==2.13.0
 numpy==1.23.5
